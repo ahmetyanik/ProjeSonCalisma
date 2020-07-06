@@ -17,6 +17,7 @@ public class Dünya {
 		System.out.println("xxxxxx");
 		System.out.println("xxxxxx");
 		System.out.println("bunu master olarak kabul edin");
+		System.out.println("ali");
 		
 		
 		
